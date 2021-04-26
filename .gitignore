@@ -1,4 +1,5 @@
+# intellij #
 
-*.imi
+*.iml
 .idea
 out/
