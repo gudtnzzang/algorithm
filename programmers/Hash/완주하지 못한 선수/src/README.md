@@ -1,4 +1,7 @@
-# 코드 v1
+# 완주하지 못한 선수
+* [문제내용](https://programmers.co.kr/learn/courses/30/lessons/42576)
+  </br></br>
+## 코드 v1
 ```
     public static String solution(String[] participant, String[] completion) {
         String answer = "";
@@ -27,7 +30,7 @@
     }
 ```
 <br/><br/>
-# refactoring
+## refactoring
 
 * HashMap의 setOrDefault 메소드를 사용해 코드를 간소화했습니다.
 * HashMap의 ketSet 메소드를 사용해 코드를 더 깔끔하고 가독성있게 수정했습니다.
